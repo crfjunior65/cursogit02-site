@@ -1,0 +1,1 @@
+\u@\h \[\e[32m\]\w \[\e[91m\]$(git branch --show-current)\[\e[00m\]$
