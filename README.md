@@ -1,2 +1,2 @@
 # cursogit02-site
-Aprendendo GIT
+Aprendendo mais sobre GIT
